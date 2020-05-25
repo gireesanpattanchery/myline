@@ -321,11 +321,11 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 48px;
   font-weight: 700;
   line-height: 56px;
-  color: rgb(12, 12, 12);
+  color: rgb(177, 5, 5);
 }
 
 #hero h2 {
-  color: #eee;
+  color: rgb(12, 12, 12);
   margin-bottom: 10px;
   font-size: 24px;
   font-weight: 300;
